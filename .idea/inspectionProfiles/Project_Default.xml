@@ -1,0 +1,64 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="51">
+            <item index="0" class="java.lang.String" itemvalue="mecab-python3" />
+            <item index="1" class="java.lang.String" itemvalue="fasttext" />
+            <item index="2" class="java.lang.String" itemvalue="fairseq" />
+            <item index="3" class="java.lang.String" itemvalue="pycosat" />
+            <item index="4" class="java.lang.String" itemvalue="mkl-random" />
+            <item index="5" class="java.lang.String" itemvalue="pke" />
+            <item index="6" class="java.lang.String" itemvalue="bitarray" />
+            <item index="7" class="java.lang.String" itemvalue="torchvision" />
+            <item index="8" class="java.lang.String" itemvalue="gem" />
+            <item index="9" class="java.lang.String" itemvalue="protext" />
+            <item index="10" class="java.lang.String" itemvalue="apex" />
+            <item index="11" class="java.lang.String" itemvalue="wmd" />
+            <item index="12" class="java.lang.String" itemvalue="mkl-fft" />
+            <item index="13" class="java.lang.String" itemvalue="jsonnet" />
+            <item index="14" class="java.lang.String" itemvalue="conda-verify" />
+            <item index="15" class="java.lang.String" itemvalue="pybloom" />
+            <item index="16" class="java.lang.String" itemvalue="conda" />
+            <item index="17" class="java.lang.String" itemvalue="pygraphviz" />
+            <item index="18" class="java.lang.String" itemvalue="anaconda-navigator" />
+            <item index="19" class="java.lang.String" itemvalue="en-core-web-sm" />
+            <item index="20" class="java.lang.String" itemvalue="cryptacular" />
+            <item index="21" class="java.lang.String" itemvalue="en-core-web-md" />
+            <item index="22" class="java.lang.String" itemvalue="sacrebleu" />
+            <item index="23" class="java.lang.String" itemvalue="tokenizers" />
+            <item index="24" class="java.lang.String" itemvalue="clyent" />
+            <item index="25" class="java.lang.String" itemvalue="navigator-updater" />
+            <item index="26" class="java.lang.String" itemvalue="transformers" />
+            <item index="27" class="java.lang.String" itemvalue="botocore" />
+            <item index="28" class="java.lang.String" itemvalue="ja-core-news-sm" />
+            <item index="29" class="java.lang.String" itemvalue="conda-build" />
+            <item index="30" class="java.lang.String" itemvalue="allennlp" />
+            <item index="31" class="java.lang.String" itemvalue="torch" />
+            <item index="32" class="java.lang.String" itemvalue="overrides" />
+            <item index="33" class="java.lang.String" itemvalue="JapaneseTokenizer" />
+            <item index="34" class="java.lang.String" itemvalue="lief" />
+            <item index="35" class="java.lang.String" itemvalue="pybind11" />
+            <item index="36" class="java.lang.String" itemvalue="conda-package-handling" />
+            <item index="37" class="java.lang.String" itemvalue="pyemd" />
+            <item index="38" class="java.lang.String" itemvalue="boto3" />
+            <item index="39" class="java.lang.String" itemvalue="tensorboard" />
+            <item index="40" class="java.lang.String" itemvalue="anaconda-client" />
+            <item index="41" class="java.lang.String" itemvalue="lightfm" />
+            <item index="42" class="java.lang.String" itemvalue="ruamel-yaml" />
+            <item index="43" class="java.lang.String" itemvalue="en-core-web-lg" />
+            <item index="44" class="java.lang.String" itemvalue="fastFM" />
+            <item index="45" class="java.lang.String" itemvalue="pycocotools" />
+            <item index="46" class="java.lang.String" itemvalue="mkl-service" />
+            <item index="47" class="java.lang.String" itemvalue="scipy" />
+            <item index="48" class="java.lang.String" itemvalue="ipdb" />
+            <item index="49" class="java.lang.String" itemvalue="scikit_learn" />
+            <item index="50" class="java.lang.String" itemvalue="numpy" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

@@ -14,7 +14,7 @@ tornado              6.1
 ```
 
 ## How to use
-###1 community
+### 1 community
  run
 ```
 python ADMM_subnet_ppi.py
@@ -25,7 +25,7 @@ python ADMM_subnet.py
 ```
 on other datasets.
 
-###N (N>1) communities
+### N (N>1) communities
  (N+1) nodes are needed to run the N-community algorithm. Specifically, the 0 to N-1 nodes are responsible for updating node representations for different communities in parallel, and the N-th community updates weight parameters and computes accuracy.
  1.  Modify config.ini on each node. Here is the example for the node for Community 0:
  
